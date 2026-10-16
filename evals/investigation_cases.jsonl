@@ -1,0 +1,3 @@
+{"case_id": "EVAL-001", "claim_id": "CLM-10291", "description": "Date mismatch between claim form and police report, repair estimate above baseline", "expected_status": "RECOMMEND_FURTHER_INVESTIGATION", "required_signals": ["DOCUMENT_DATE_MISMATCH", "REPAIR_ESTIMATE_ANOMALY"]}
+{"case_id": "EVAL-002", "claim_id": "CLM-10292", "description": "Minor bumper scratch, all documents consistent, baseline matched", "expected_status": "RECOMMEND_STANDARD_PROCESSING", "required_signals": []}
+{"case_id": "EVAL-003", "claim_id": "CLM-10293", "description": "Customer with 3 prior claims in 6 months", "expected_status": "RECOMMEND_FURTHER_INVESTIGATION", "required_signals": ["UNUSUAL_CLAIM_FREQUENCY"]}

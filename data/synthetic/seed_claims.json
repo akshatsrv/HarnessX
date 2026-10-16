@@ -1,0 +1,47 @@
+[
+  {
+    "claim_id": "CLM-10291",
+    "customer_id": "C10291",
+    "customer_name": "Rajesh Kumar",
+    "vehicle_id": "V-301",
+    "vehicle_model": "Honda City",
+    "incident_date": "2026-09-12",
+    "incident_location": "Delhi",
+    "claimed_amount": 485000,
+    "currency": "INR",
+    "damage_reported": "Front bumper, headlight, bonnet",
+    "status": "SUBMITTED",
+    "document_ids": ["DOC-101", "DOC-102", "DOC-103", "DOC-104"],
+    "created_at": "2026-10-15T10:00:00Z"
+  },
+  {
+    "claim_id": "CLM-10292",
+    "customer_id": "C10292",
+    "customer_name": "Priya Sharma",
+    "vehicle_id": "V-302",
+    "vehicle_model": "Hyundai i20",
+    "incident_date": "2026-10-01",
+    "incident_location": "Bengaluru",
+    "claimed_amount": 25000,
+    "currency": "INR",
+    "damage_reported": "Rear bumper scratch",
+    "status": "SUBMITTED",
+    "document_ids": ["DOC-201"],
+    "created_at": "2026-10-15T11:00:00Z"
+  },
+  {
+    "claim_id": "CLM-10293",
+    "customer_id": "C10293",
+    "customer_name": "Amit Verma",
+    "vehicle_id": "V-303",
+    "vehicle_model": "Maruti Swift",
+    "incident_date": "2026-09-28",
+    "incident_location": "Mumbai",
+    "claimed_amount": 180000,
+    "currency": "INR",
+    "damage_reported": "Side door dent and suspension damage",
+    "status": "UNDER_INVESTIGATION",
+    "document_ids": ["DOC-301", "DOC-302"],
+    "created_at": "2026-10-15T12:00:00Z"
+  }
+]

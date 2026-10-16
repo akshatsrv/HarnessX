@@ -1,0 +1,36 @@
+{
+  "claim_id": "CLM-10291",
+  "customer_id": "C10291",
+  "customer_name": "Rajesh Kumar",
+  "vehicle": {
+    "vehicle_id": "V-301",
+    "make_model": "Honda City",
+    "registration_number": "DL-01-AB-1234",
+    "year": 2022
+  },
+  "submitted_claim": {
+    "date_of_accident": "2026-09-12",
+    "location": "Delhi Outer Ring Road",
+    "claimed_amount": 485000,
+    "damage_description": "Collision impact on front end. Damage to front bumper, right headlight assembly, radiator grill, and bonnet."
+  },
+  "police_report_extracted": {
+    "fir_number": "FIR-2026-8812",
+    "date_reported": "2026-09-14",
+    "date_of_incident": "2026-09-14",
+    "location": "Outer Ring Road, Near Rohini, Delhi",
+    "collision_type": "Two-vehicle front bumper impact"
+  },
+  "repair_estimate_extracted": {
+    "workshop_name": "Apex Auto Care Center, Delhi",
+    "estimate_date": "2026-09-15",
+    "total_estimate": 485000,
+    "line_items": [
+      {"item": "Front Bumper OEM Assembly", "cost": 75000},
+      {"item": "Right LED Headlight Assembly", "cost": 85000},
+      {"item": "Radiator & Condenser Replacement", "cost": 95000},
+      {"item": "Bonnet Sheet Metal & Paint", "cost": 110000},
+      {"item": "Labor & Chassis Alignment", "cost": 120000}
+    ]
+  }
+}

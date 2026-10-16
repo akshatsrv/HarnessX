@@ -1,0 +1,5 @@
+{"signal_code": "DOCUMENT_DATE_MISMATCH", "severity": "MEDIUM", "min_weight": 10, "max_weight": 20}
+{"signal_code": "REPAIR_ESTIMATE_ANOMALY", "severity": "HIGH", "min_weight": 15, "max_weight": 25}
+{"signal_code": "UNUSUAL_CLAIM_FREQUENCY", "severity": "HIGH", "min_weight": 15, "max_weight": 25}
+{"signal_code": "POLICY_INSPECTION_CONDITION", "severity": "LOW", "min_weight": 5, "max_weight": 15}
+{"signal_code": "HIGH_CLAIM_AMOUNT", "severity": "MEDIUM", "min_weight": 10, "max_weight": 20}
